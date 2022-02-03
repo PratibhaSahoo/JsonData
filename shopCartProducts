@@ -2,41 +2,26 @@
 	{
 		"id": 01,
 		"name": "The Big Lebowski (Blu-ray) (Widescreen)",
-		"current_price": {
-			"value": 13.49,
-			"currency_code": "USD"
-		}
+		"current_price": 13.49
 	},
 	{
 		"id": 02,
 		"name": "The Big Lebowski (Blu-ray) (Widescreen)",
-		"current_price": {
-			"value": 13.49,
-			"currency_code": "USD"
-		}
+		"current_price": 13.49
 	},
 	{
 		"id": 03,
 		"name": "The Big Lebowski (Blu-ray) (Widescreen)",
-		"current_price": {
-			"value": 13.49,
-			"currency_code": "USD"
-		}
+		"current_price": 13.49
 	},
 	{
 		"id": 04,
 		"name": "The Big Lebowski (Blu-ray) (Widescreen)",
-		"current_price": {
-			"value": 13.49,
-			"currency_code": "USD"
-		}
+		"current_price": 13.49
 	},
 	{
 		"id": 05,
 		"name": "The Big Lebowski (Blu-ray) (Widescreen)",
-		"current_price": {
-			"value": 13.49,
-			"currency_code": "USD"
-		}
+		"current_price": 13.49
 	}
 ]
